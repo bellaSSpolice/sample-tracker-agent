@@ -1,0 +1,29 @@
+# Web framework
+Flask==2.3.3
+gunicorn==21.2.0
+
+# Database
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# Gmail API
+google-api-python-client==2.108.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Ship24 API
+requests==2.31.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# HTML parsing
+beautifulsoup4==4.12.2
+
+# Testing
+pytest==7.4.4
+pytest-mock==3.12.0
+
+# Utilities
+python-dotenv==1.0.0
